@@ -10,5 +10,11 @@ There is extension for Mozilla Firefox:
 
 https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/
 
-Add-on usage
+Youtube video
 https://www.youtube.com/watch?v=KruSUqLdxQA&t=14s
+
+Or Chrome extension "CORS Unblock"
+https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=en
+
+Youtube video
+https://www.youtube.com/watch?v=8berLeTjKDM
