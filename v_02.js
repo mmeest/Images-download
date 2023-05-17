@@ -51,6 +51,7 @@ button.style.top = '10px';
 button.style.left = '10px';
 button.style.backgroundColor = 'yellow';
 button.style.borderRadius = '50%';
+button.style.cursor = 'pointer';
 button.style.zindex = '9999';
 
 // Lisage nupp <body> elemendi sisse
