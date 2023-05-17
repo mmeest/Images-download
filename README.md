@@ -1,7 +1,7 @@
 # Images-download
 Button(in JavaScript) for downloading all images from webpage.
 
-You may need to allow "download multiple files" on browser settings.
+You may need to "allow automatic download multiple files" on browser settings.
 
 You may also need to 'Allow CORS'
 For example in Firefox
