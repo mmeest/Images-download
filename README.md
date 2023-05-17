@@ -9,3 +9,6 @@ There is extension for Mozilla Firefox:
 "Allow CORS: Access-Control-Allow-Origin"
 
 https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/
+
+Add-on usage
+https://www.youtube.com/watch?v=KruSUqLdxQA&t=14s
